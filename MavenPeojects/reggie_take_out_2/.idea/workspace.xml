@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7ccad6c-e516-487b-9a3e-87effcbfa9f1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\Maven\repository" />
+        <option name="mavenHome" value="E:/software/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\software\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2FDMXK03uWTbjCCN8S4iXY2OfSB" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="D:/FeilRecv/JavaEE/assignment-5/assignment-5" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MavenPeojects\reggie_take_out_2\src\main\java\com\itheima\reggie\entity" />
+      <recent name="E:\MavenPeojects\reggie_take_out_2\src\main\java\com\itheima\reggie\dto" />
+      <recent name="E:\MavenPeojects\reggie_take_out_2\src\main\resources\backend\page\demo" />
+      <recent name="E:\MavenPeojects\reggie_take_out_2\src\main\java\com\itheima\reggie\common" />
+      <recent name="E:\MavenPeojects\reggie_take_out_2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="UploadFileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.UploadFileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JUnit.UploadFileTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ccad6c-e516-487b-9a3e-87effcbfa9f1" name="Default Changelist" comment="" />
+      <created>1664022239222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664022239222</updated>
+      <workItem from="1664022240578" duration="5320000" />
+      <workItem from="1664029836727" duration="3243000" />
+      <workItem from="1664084667974" duration="3185000" />
+      <workItem from="1664105428749" duration="1717000" />
+      <workItem from="1664113883086" duration="821000" />
+      <workItem from="1664150118087" duration="4244000" />
+      <workItem from="1664172821728" duration="755000" />
+      <workItem from="1664183259438" duration="633000" />
+      <workItem from="1664282579775" duration="1328000" />
+      <workItem from="1664285653635" duration="2524000" />
+      <workItem from="1664359988057" duration="3340000" />
+      <workItem from="1664374616254" duration="4051000" />
+      <workItem from="1664408288892" duration="4513000" />
+      <workItem from="1664413360156" duration="1788000" />
+      <workItem from="1664462379963" duration="796000" />
+      <workItem from="1664719327452" duration="5010000" />
+      <workItem from="1664786205936" duration="10116000" />
+      <workItem from="1664841636234" duration="1198000" />
+      <workItem from="1664892809428" duration="4143000" />
+      <workItem from="1664958073520" duration="859000" />
+      <workItem from="1665013465733" duration="2279000" />
+      <workItem from="1665024838983" duration="1592000" />
+      <workItem from="1665067188256" duration="2488000" />
+      <workItem from="1665226473358" duration="9069000" />
+      <workItem from="1665235690529" duration="862000" />
+      <workItem from="1665293388776" duration="4419000" />
+      <workItem from="1665298774352" duration="8442000" />
+      <workItem from="1665307318134" duration="1509000" />
+      <workItem from="1665308855948" duration="3900000" />
+      <workItem from="1665324894557" duration="1635000" />
+      <workItem from="1665410860715" duration="2340000" />
+      <workItem from="1665444883024" duration="3368000" />
+      <workItem from="1665454678907" duration="947000" />
+      <workItem from="1665480279335" duration="8842000" />
+      <workItem from="1665576218209" duration="3039000" />
+      <workItem from="1665581686963" duration="186000" />
+      <workItem from="1665581889171" duration="650000" />
+      <workItem from="1665584801650" duration="3664000" />
+      <workItem from="1665616535372" duration="4665000" />
+      <workItem from="1665646701892" duration="5966000" />
+      <workItem from="1665663867301" duration="1668000" />
+      <workItem from="1665665570287" duration="2147000" />
+      <workItem from="1665667752556" duration="2207000" />
+      <workItem from="1665671122456" duration="4871000" />
+      <workItem from="1665756978049" duration="345000" />
+      <workItem from="1665757341226" duration="196000" />
+      <workItem from="1665757554176" duration="3688000" />
+      <workItem from="1665761912327" duration="1007000" />
+      <workItem from="1665826651581" duration="1660000" />
+      <workItem from="1665841690725" duration="604000" />
+      <workItem from="1665888682114" duration="4615000" />
+      <workItem from="1665911692534" duration="7000" />
+      <workItem from="1665914486148" duration="1268000" />
+      <workItem from="1665965644261" duration="109000" />
+      <workItem from="1665965769174" duration="1083000" />
+      <workItem from="1665967027854" duration="977000" />
+      <workItem from="1665982973454" duration="973000" />
+      <workItem from="1665983964593" duration="1499000" />
+      <workItem from="1665996062210" duration="2627000" />
+      <workItem from="1666005601958" duration="611000" />
+      <workItem from="1666007056912" duration="9000" />
+      <workItem from="1666071667325" duration="1911000" />
+      <workItem from="1666084887469" duration="1314000" />
+      <workItem from="1666194372955" duration="766000" />
+      <workItem from="1666221834059" duration="42000" />
+      <workItem from="1666225865332" duration="1784000" />
+      <workItem from="1666240193193" duration="98000" />
+      <workItem from="1666439494419" duration="1253000" />
+      <workItem from="1666505994455" duration="1927000" />
+      <workItem from="1666516904798" duration="2517000" />
+      <workItem from="1667007479870" duration="727000" />
+      <workItem from="1667035760625" duration="599000" />
+      <workItem from="1667036844180" duration="1926000" />
+      <workItem from="1667130048177" duration="870000" />
+      <workItem from="1667274110849" duration="1189000" />
+      <workItem from="1667279699504" duration="825000" />
+      <workItem from="1667282424209" duration="594000" />
+      <workItem from="1667374252494" duration="2186000" />
+      <workItem from="1667384779608" duration="7924000" />
+      <workItem from="1667432021387" duration="2770000" />
+      <workItem from="1667442565748" duration="1800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
